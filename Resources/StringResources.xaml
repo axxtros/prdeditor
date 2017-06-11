@@ -1,0 +1,20 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PrdEditor"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!-- system -->
+    <system:String x:Key="applicationName">Dictionary Table Editor (Development Tool)</system:String>
+
+    <!-- main menu -->
+    <system:String x:Key="mainMenu_File">Fájl</system:String>
+    <system:String x:Key="mainMenu_Edit">Szerkesztés</system:String>
+    <system:String x:Key="mainMenu_View">Nézet</system:String>
+    <system:String x:Key="mainMenu_Window">Ablak</system:String>
+    <system:String x:Key="mainMenu_Help">Segítség</system:String>
+    
+    <!-- toolbar -->
+    <system:String x:Key="newConnectionButton">Új kapcsolat</system:String>
+    <system:String x:Key="newConnectionButtonTooltip">Új adatbáziskapcsolat létrehozása</system:String>
+
+</ResourceDictionary>
